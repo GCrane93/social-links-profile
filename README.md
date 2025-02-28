@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/GCrane93/social-links-profile)
+- Live Site URL: [GitHub Page](https://gcrane93.github.io/social-links-profile/)
 
 ## My process
 
