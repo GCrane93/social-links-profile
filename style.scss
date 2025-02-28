@@ -112,6 +112,7 @@ body {
     border-radius: 5px;
     transition: 200ms all ease-in-out;
 
+    &:focus,
     &:hover {
       background: var(--var-colour-green);
       color: var(--var-colour-gray-900);
