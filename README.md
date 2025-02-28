@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the coding challenge](./screenshot.jpg)
+![Design preview for the coding challenge](./screencapture-gcrane93-github-io-social-links-profile-2025-02-28-03_36_46.png)
 
 ### Links
 
